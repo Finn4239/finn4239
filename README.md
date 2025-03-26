@@ -10,3 +10,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
+
+<img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=finn4239&repo=finn4239&countColorcountColor&countColor=%237B1E7B"/>
