@@ -3,6 +3,10 @@
 - 🎓 Student at HTW Saar
 - 📚 Practical computer science (Current semester: 4)
 
+## 🌐 Finde mich hier
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)]([https://www.linkedin.com/](https://www.linkedin.com/in/finn-oettinger-b670792a0/))
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
