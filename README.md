@@ -6,6 +6,7 @@
 ## 🌐 Finde mich hier
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/finn-oettinger-b670792a0/)
+[![Discord](https://www.vecteezy.com/png/23986880-discord-logo-png-discord-logo-transparent-png-discord-icon-transparent-free-png)](https://discord.com/users/308381381979930628)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
