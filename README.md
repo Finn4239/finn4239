@@ -14,7 +14,8 @@
   </a>
 </p>
 - 🎓 Student at HTW Saar
-- 📚 Practical computer science (Current semester: 4)
+- 📚 Practical computer science (Current semester: 5)
+- <img href="https://codetime.dev" alt="CodeTime Badge" src="https://shields.jannchie.com/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D23539"> (Codetime-Plugin doesent work anymore at my IntelliJ since one 1/2 Year so the actually time way higher)
 
 ## 🌐 Finde mich hier
 
