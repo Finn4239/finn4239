@@ -13,9 +13,11 @@
     <img src="https://images.icon-icons.com/2107/PNG/512/file_type_maven_icon_130397.png" width="40" height="40" alt="Apache Maven"/>
   </a>
 </p>
-- 🎓 Student at HTW Saar
-- 📚 Practical computer science (Current semester: 5)
-- <img href="https://codetime.dev" alt="CodeTime Badge" src="https://shields.jannchie.com/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D23539"> (Codetime-Plugin doesent work anymore at my IntelliJ since one 1/2 Year so the actually time way higher)
+<ul>
+  <li>🎓 Student at HTW Saar</li>
+  <li>📚 Practical computer science (Current semester: 5)</li>
+  <li><img href="https://codetime.dev" alt="CodeTime Badge" src="https://shields.jannchie.com/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D23539"> (Didn't worked for me for 1 year)</li>
+</ul>
 
 ## 🌐 Finde mich hier
 
