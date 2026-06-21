@@ -15,7 +15,7 @@
 </p>
 <ul>
   <li>🎓 Student at HTW Saar</li>
-  <li>📚 Practical computer science (Current semester: 5)</li>
+  <li>📚 Practical computer science (Current semester: 6)</li>
   <li><img href="https://codetime.dev" alt="CodeTime Badge" src="https://shields.jannchie.com/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D23539"> (Didn't worked for me for 1 year)</li>
 </ul>
 
