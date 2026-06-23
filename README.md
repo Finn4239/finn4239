@@ -20,8 +20,6 @@
 </ul>
 
 ## 🌐 Finde mich hier
-
-[![Discord](https://img.icons8.com/?size=100&id=SAZw8WuWnQea&format=png&color=000000)](https://discord.com/users/308381381979930628)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/finn-oettinger-b670792a0/)
 
 <picture>
